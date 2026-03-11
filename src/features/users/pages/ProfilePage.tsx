@@ -124,3 +124,4 @@ function InfoRow({
     </div>
   );
 }
+export default ProfilePage;

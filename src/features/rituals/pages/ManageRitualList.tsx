@@ -153,3 +153,4 @@ export function ManageRitualList() {
     </div>
   );
 }
+export default ManageRitualList;

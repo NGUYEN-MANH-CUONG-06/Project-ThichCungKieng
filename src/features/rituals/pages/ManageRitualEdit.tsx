@@ -73,3 +73,5 @@ export function ManageRitualEdit() {
     </div>
   );
 }
+
+export default ManageRitualEdit;

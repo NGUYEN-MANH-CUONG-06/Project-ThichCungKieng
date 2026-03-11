@@ -264,3 +264,5 @@ export function RitualCatalog() {
     </div>
   );
 }
+
+export default RitualCatalog;

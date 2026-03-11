@@ -196,3 +196,5 @@ export function RitualDetail() {
     </div>
   );
 }
+
+export default RitualDetail;

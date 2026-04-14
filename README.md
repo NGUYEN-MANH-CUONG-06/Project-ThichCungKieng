@@ -2,6 +2,9 @@
 
 ## Mô tả dự án
 
+## 🚀 Live Demo
+https://project-thich-cung-kieng.vercel.app 
+
 Đây là một dự án React học tập và phát triển ứng dụng web hiện đại, sử dụng các công nghệ tiên tiến như React 19, TypeScript, Vite, Tailwind CSS, và Zustand. Dự án tập trung vào việc xây dựng một ứng dụng quản lý người dùng, xác thực, và các tính năng liên quan đến "rituals" (có thể là nghi thức hoặc thói quen).
 
 ## Tính năng chính
